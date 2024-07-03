@@ -1,0 +1,41 @@
+## TAB 1
+new_tab HOME
+enabled_layouts tall
+layout tall
+launch zsh
+
+## TAB 2
+new_tab Senitron
+enabled_layouts tall,stack
+layout tall
+cd ~/Developer/Senitron/athena_senitron_cloud/
+focus
+focus_os_window
+launch zsh
+
+# ## TAB 3
+# new_tab MUSIC
+# enabled_layouts tall, grid
+# layout tall
+# launch ncmpcpp
+# launch curseradio-improved
+# launch pulsemixer
+# launch cava
+#
+# ## TAB 4
+# new_tab NEWSBOAT
+# enabled_layouts tall
+# layout tall
+# launch newsboat
+#
+# ## TAB 5
+# new_tab CALCURSE
+# enabled_layouts tall
+# layout tall
+# launch calcurse
+#
+# ## TAB 6
+# new_tab OTHER
+# enabled_layouts tall
+# layout tall
+# launch zsh

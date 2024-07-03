@@ -1,0 +1,17 @@
+lastupdatecheck: 1702879139
+recentrepos:
+- /Users/Parham/Developer/Senitron/athena_senitron_cloud
+- /Users/Parham/Developer/Digikala/icarus
+- /Users/Parham/Developer/Senitron/athena_scheduler
+- /Users/Parham/.config/zsh/.zprezto
+startuppopupversion: 5
+lastversion: 0.41.0
+customcommandshistory:
+- q
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
